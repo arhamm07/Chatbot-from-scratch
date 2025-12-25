@@ -94,7 +94,6 @@ Interact with the chatbot in the terminal. Type `/quit` to exit.
 - `chatbot.py` - Main chatbot implementation
 - `intents.json` - Training data and responses
 - `logger.py` - Logging configuration
-- `requirements.txt` - Project dependencies
 
 ## License
 
